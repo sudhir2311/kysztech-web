@@ -1,0 +1,98 @@
+#navigation ul li a:hover,#navigation ul li.active a,#mobile-navigation ul li a:hover,#mobile-navigation ul li.active a,.dark .section-title h2,.team-item h3,#footer .recent-tweets ul li a,#footer .recent-tweets ul li a:visited {
+    color: #8cc34b;
+}
+.chosen-item-1:hover .hex-area,.chosen-item-2:hover .hex-area,.chosen-item-3:hover .hex-area,.welcome-box .hex-area,.note-1 .hex-area,.services-item .hex-area,.gallery-item .socials .social .hex-area,.gallery-item .socials .social .outer-hex,#calendar tr.days th,.current-events .outer-hex,#calendar .cur-day,.bar-graph .bar-month,.bar-graph .graph li.bar,.gragh-info-symbol,.about-item .outer-hex,.important-info .outer-hex,.recent-tweets .hex-area,.recent-tweets .outer-hex,.team-item .skill-degree.full,.contact-form input#submit,.map-marker .pin,.general-section .flex-control-paging li a.flex-active,.general-section .flex-control-paging li a:hover,.progress-bar,#footer .newsletter .hex-area,#footer .newsletter .outer-hex {
+    background: #8cc34b !important;
+}
+#calendar tr.days {
+    border-color: #8cc34b;
+}
+#header-wrap,#navigation ul li.active .nav-active-mark,#calendar table,.team-item .skill-degree.full:before,#calendar .cur-day:before,.bar-graph .bar-month:before,.gragh-info-symbol:before,#footer-wrap,.general-section .flex-control-paging li a.flex-active:before,.general-section .flex-control-paging li a:hover:before,#mobile-navigation,.mobile-nav-mark {
+    border-bottom-color: #8cc34b;
+}
+ .team-item .skill-degree.full:after,#calendar .cur-day:after,.bar-graph .bar-month:after,.gragh-info-symbol:after,.general-section .flex-control-paging li a.flex-active:after,.general-section .flex-control-paging li a:hover:after {
+    border-top-color: #8cc34b;
+}
+.gallery-item-overlay:hover .outer-hex {
+    background-color: #8cc34b;
+}
+
+.java-color {
+    color: #FF9811 !important;
+}
+
+.java-color-hover:HOVER{
+    background-color: #FF9811 !important;
+}
+
+.java-color-bg {
+    background-color: #FF9811 !important;
+}
+
+.android-color {
+    color: #91DC5A !important;
+}
+
+.android-color-hover:HOVER{
+    background-color: #91DC5A !important;
+}
+
+.android-color-bg {
+    background-color: #91DC5A !important;
+}
+
+.ios-color {
+    color: #45A8DA !important;
+}
+
+.ios-color-hover:HOVER{
+    background-color: #45A8DA !important;
+}
+
+.ios-color-bg {
+    background-color: #45A8DA !important;
+}
+
+.magento-color {
+    color: #F05916 !important;
+}
+
+.magento-color-hover:HOVER{
+    background-color: #F05916 !important;
+}
+
+.magento-color-bg {
+    background-color: #F05916 !important;
+}
+
+.php-color {
+    color: #C4C4C4 !important;
+}
+
+.php-color-hover:HOVER{
+    background-color: #C4C4C4 !important;
+}
+
+.php-color-bg {
+    background-color: #C4C4C4 !important;
+}
+
+.may-be-you {
+    color: #91B9E0!important;
+}
+
+.may-be-you-hover:HOVER{
+    background-color: #91B9E0!important;
+}
+
+.may-be-you-bg {
+    background-color: #91B9E0!important;
+}
+
+.highcharts-button{
+  cursor: pointer !important;
+}
+
+.link-not-allowed{
+   opacity: 0.2;
+}

@@ -1,0 +1,51 @@
+{
+    "from_date": "2016-08-01 00:00",
+    "to_date": "2016-08-02 00:00",
+    "total_reds": 2,
+    "data": [{
+        "id": “7 FEB70C3 - 3E75 - 42E3 - AD66 - 52 DD8164B4C4”,
+        "number": 4,
+        "red_name": "some name",
+        "created": "2016-08-02 00:00",
+        "status": 1,
+        "stats": [{
+            "level": 1,
+            "clicks": 2000
+        }, {
+            "level": 2,
+            "clicks": 222
+        }]
+    }, {
+        "id": “7 FEB70C3 - 3E75 - 42E3 - AD66 - 52 DD8164B4C5”,
+        "number": 5,
+        "red_name": "some name 2",
+        "created": "2016-08-02 00:00",
+        "status": 1,
+        "stats": [{
+            "level": 1,
+            "clicks": 1000
+        }, {
+            "level": 2,
+            "clicks": 122
+        }, {
+            "level": 3,
+            "clicks": 50
+        }, {
+            "level": 4,
+            "clicks": 12
+        }]
+    }],
+    "stats_total": [{
+        "level": 1,
+        "clicks": 3000
+    }, {
+        "level": 2,
+        "clicks": 344
+    }, {
+        "level": 3,
+        "clicks": 50
+    }, {
+        "level": 4,
+        "clicks": 12
+    }]
+}

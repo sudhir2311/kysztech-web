@@ -1,0 +1,958 @@
+@media (max-width: 1200px) {
+  body.contact .inner .col-6.right .form:before {
+    width: 100%;
+    left: 55%;
+    background-size: 100%;
+  }
+}
+/* Laptop
+/* ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## */
+@media (max-width: 1024px) {
+  .wrap {
+    width: 800px !important;
+  }
+  /* Home */
+  nav.main {
+    margin: 90px auto 0;
+    width: 670px;
+  }
+  nav.main:before {
+    width: 640px;
+  }
+  nav.main .logo {
+    bottom: 75px;
+  }
+  nav.main ul.first > li {
+    margin-right: 7px;
+    margin-left: 7px;
+  }
+  nav.main ul.first > li.show-tablet {
+    display: block;
+  }
+  nav.main .col-6.left,
+  nav.main .col-6.right {
+    padding: 0;
+  }
+  .home section.our-services .columns .col-3 {
+    width: 50%;
+    padding: 0 4px !important;
+    margin-bottom: 10px;
+  }
+  /*          */
+  /* ## ## ## */
+  body.home header .left .text {
+    padding-right: 60px;
+  }
+  body.home header .right .text {
+    padding-left: 60px;
+  }
+  body.home header .left h2 {
+    font-size: 40px;
+  }
+  body.home .background {
+    height: 684px;
+  }
+  body.home header .left img.car {
+    width: 100%;
+  }
+  body.home section.our-services {
+    padding-top: 100px;
+  }
+  body.home .mobile {
+    margin-top: 170px;
+  }
+  body.home section.how-it-works .list .icon {
+    width: 80px;
+    height: 80px;
+    position: absolute;
+  }
+  body.home section.how-it-works .list p,
+  body.home section.how-it-works .list h3 {
+    padding-left: 105px;
+  }
+  body.home section.our-cars h2:before,
+  body.home section.our-cars h2:after {
+    width: 250px;
+  }
+  body.home section.our-cars .gallery #slider {
+    height: 390px;
+  }
+  body.home section.our-cars .gallery #slider li img {
+    width: 80%;
+  }
+  body.home section.newsspecials .news article .right {
+    padding-top: 20px;
+  }
+  body.home section.newsspecials .news article .right h2 {
+    font-size: 14px;
+  }
+  body.home section.newsspecials .specials .content .container:first-of-type {
+    background-position: -20% center;
+  }
+  body.home section.newsspecials .specials .content .container:first-of-type .text {
+    width: 190px;
+  }
+  body.home section.newsspecials .specials .content .container:last-of-type .offer {
+    font-size: 120px;
+    line-height: 1.7;
+  }
+  /* Services */
+  /* ## ## ## */
+  body.services section.content h2:before,
+  body.services section.content h2:after,
+  body.all section.content > h2:before,
+  body.all section.content > h2:after {
+    width: 170px;
+  }
+  body.services section.content .tiles > .col-6 {
+    height: 190px;
+  }
+  body.services section.content .tiles > .col-6 .txt {
+    padding: 25px !important;
+  }
+  body.services section.content .tiles > .col-6 .txt h3 {
+    font-size: 16px;
+  }
+  /* Booking */
+  /* ## ## ## */
+  body.booking #book-content {
+    padding: 40px 30px;
+  }
+  body.booking #book-content form input {
+    width: 100%;
+  }
+  body.booking #book-content form .col-6.left {
+    padding-left: 0;
+  }
+  body.booking #book-content form .adress {
+    width: 100%;
+  }
+  body.booking #book-content form .map {
+    width: 45%;
+  }
+  /* Blog     */
+  /* ## ## ## */
+  body.blog article .right .inner .img {
+    width: 280px;
+  }
+  body.blog article .right .inner .img img {
+    width: 100%;
+  }
+  body.blog article .right .inner .text a {
+    font-size: 22px;
+  }
+  /* Blog     */
+  /* ## ## ## */
+  body.blog-inside section.content h1 {
+    font-size: 35px;
+  }
+  body.blog-inside section.content .quote {
+    width: 50%;
+  }
+  body.blog-inside .leave-a-comment {
+    width: 100%;
+  }
+  body.blog-inside .leave-a-comment .col-10 {
+    width: 290px;
+  }
+  body.blog-inside .leave-a-comment .col-11 {
+    width: 655px;
+  }
+  /* About    */
+  /* ## ## ## */
+  .about section.content h3 {
+    font-size: 32px;
+  }
+  .about section.content .col-6:first-child {
+    padding-right: 20px;
+  }
+  .about section.content .col-6:last-child {
+    padding-left: 20px;
+  }
+  .about .team .founder .team-slider .flex-direction-nav li.flex-nav-next {
+    right: -10px;
+  }
+  .about .team .founder .team-slider .flex-direction-nav li.flex-nav-prev {
+    left: -10px;
+  }
+  .about .team .background {
+    width: 100%;
+    background-position: 0% 70%;
+  }
+  .about .team .founder .wide-line img {
+    width: 75%;
+  }
+  .about .certificate .col-7 .text h3 {
+    font-size: 35px;
+    line-height: 35px;
+  }
+  .about .certificate .col-7 .text h3 span {
+    font-size: inherit;
+  }
+  /* Contact  */
+  /* ## ## ## */
+  body.contact .inner .col-6.right .form:before {
+    background-size: 100%;
+  }
+  body.contact .inner .col-6.right .form form {
+    width: 100%;
+  }
+  body.contact .inner .col-6.right .form:after {
+    width: 100%;
+  }
+  body.contact .inner .col-6.left {
+    padding-right: 60px;
+  }
+  body.contact .inner .col-6.right {
+    padding-left: 60px;
+  }
+  body.contact .inner .col-6.right .form:before {
+    width: 115%;
+    left: 65%;
+  }
+  body.contact .inner .col-6.right .form:after {
+    left: -1px;
+  }
+}
+/* ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## */
+@media (max-width: 830px) {
+  .wrap {
+    width: 600px !important;
+  }
+  nav.main .col-6.left,
+  nav.main .col-6.right {
+    display: none;
+  }
+  nav.main {
+    width: 550px;
+  }
+  nav.main:before {
+    width: 520px;
+  }
+  nav.main .logo {
+    background-size: 100%;
+    width: 180px;
+    margin-left: -90px;
+    bottom: 64px;
+  }
+  .call-us {
+    margin-left: 95px;
+  }
+  .call-us p {
+    width: 100%;
+  }
+  body.home header .left h2 {
+    font-size: 35px;
+  }
+  body.home header .left .text {
+    padding-right: 40px;
+    margin-top: 60px;
+  }
+  body.home header .right .text {
+    padding-left: 40px;
+    margin-top: 60px;
+  }
+  body.home header .right .col-2 {
+    width: 25%;
+  }
+  body.home header .right .col-10 {
+    width: 75%;
+  }
+  body.home header .right .adress .col-10 p {
+    box-sizing: border-box;
+    width: 100%;
+    text-align: left;
+    margin-bottom: 0;
+  }
+  body.home header .right .type a {
+    width: 30%;
+  }
+  body.home .background {
+    height: 753px;
+  }
+  body.home header .left img.car {
+    top: 433px;
+  }
+  body.home section.our-services h2,
+  body.home section.how-it-works h2 {
+    font-size: 45px;
+  }
+  body.home section.our-services h2:before,
+  body.home section.our-services h2:after {
+    width: 140px;
+  }
+  body.home .mobile {
+    margin-top: 120px;
+  }
+  body.home .mobile:after {
+    width: 150px;
+    margin-left: -75px;
+    background-size: 100%;
+    height: 350px;
+    bottom: -50px;
+  }
+  body.home .mobile .col-6:first-of-type {
+    padding-right: 100px;
+  }
+  body.home .mobile .col-6:last-of-type {
+    padding-left: 100px;
+  }
+  body.home section.how-it-works {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+  body.home section.how-it-works .list {
+    margin-top: 50px;
+  }
+  body.home section.how-it-works .list .col-4 {
+    text-align: center;
+    position: relative;
+  }
+  body.home section.how-it-works .list .icon {
+    left: 50%;
+    margin-left: -40px;
+  }
+  body.home section.how-it-works .list h3,
+  body.home section.how-it-works .list p {
+    width: 100%;
+    padding-left: 0;
+    display: inline-block;
+    margin-top: 10px;
+    text-align: center;
+  }
+  body.home section.how-it-works .list h3 {
+    margin-top: 100px;
+  }
+  body.home section.suggestions .left:before {
+    display: none;
+  }
+  body.home section.suggestions .left form {
+    width: 100%;
+  }
+  body.home section.suggestions .left:after {
+    width: 100%;
+  }
+  body.home section.suggestions .right {
+    padding-left: 60px;
+    padding-top: 40px;
+  }
+  body.home section.our-cars h2:before,
+  body.home section.our-cars h2:after {
+    width: 150px;
+  }
+  body.home section.our-cars .gallery #slider {
+    height: 295px;
+  }
+  body.home section.our-cars .gallery #slider li h4 {
+    margin-top: 10px;
+  }
+  body.home .mobile .store {
+    margin-bottom: 60px;
+  }
+  body.home section.newsspecials .specials .caption h3,
+  body.home section.newsspecials .news .caption h3 {
+    font-size: 30px;
+  }
+  /* */
+  body.home section.newsspecials .news,
+  body.home section.newsspecials .specials {
+    width: 100%;
+  }
+  body.home section.newsspecials .news article .right {
+    padding-top: 25px;
+  }
+  body.home section.newsspecials .specials .content .container:first-of-type {
+    background-position: 0% center;
+  }
+  body.home section.newsspecials .specials .content .container:first-of-type .text {
+    right: 70px;
+  }
+  body.home section.newsspecials .specials .content .container:last-of-type {
+    background-size: cover;
+  }
+  body.home section.newsspecials .specials .content .container:last-of-type .offer {
+    font-size: 172px;
+    line-height: 1.2;
+  }
+  body.home section.newsspecials .news article .right {
+    height: 100px;
+    padding-top: 20px;
+  }
+  body.home section.newsspecials .news .content {
+    height: 300px;
+  }
+  body.home section.newsspecials .news article .left {
+    padding-top: 0px;
+  }
+  body.home section.newsspecials .news article .right:before {
+    top: 35px;
+  }
+  nav.main .mobile-button {
+    display: block;
+  }
+  /* Services */
+  body.services section.content h2:before,
+  body.services section.content h2:after,
+  body.all section.content > h2:before,
+  body.all section.content > h2:after {
+    width: 90px;
+  }
+  body.services section.content .tiles > .col-6 {
+    width: 100%;
+    margin-bottom: 1px;
+  }
+  body.services section.content .tiles > .col-6 {
+    height: 250px;
+  }
+  body.services section.content .tiles > .col-6 .txt {
+    padding: 45px !important;
+  }
+  /* Booking */
+  body.booking .book-a-cab {
+    padding: 0;
+  }
+  body.booking #book-nav {
+    padding: 0;
+  }
+  body.booking #book-content form .col-6 {
+    width: 100%;
+  }
+  body.booking #book-content form .col-6:first-child,
+  body.booking #book-content form .col-6:last-of-type {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  body.booking #book-content form #submit {
+    margin-top: 15px;
+  }
+  /* Blog */
+  body.blog section.content {
+    padding: 38px 0px 50px 0px;
+  }
+  body.blog article .right {
+    padding-left: 25px;
+    padding-right: 0;
+  }
+  body.blog article .left h3 {
+    font-size: 30px;
+  }
+  body.blog article .right .inner .img {
+    position: static;
+  }
+  body.blog article .right .inner {
+    padding: 35px 35px 35px 35px;
+  }
+  body.blog .pagination .col-10 a {
+    font-size: 14px;
+    padding: 0 8px;
+  }
+  body.blog-inside section.content h1 {
+    font-size: 23px;
+  }
+  body.blog-inside .padding {
+    padding: 0 30px;
+  }
+  body.blog-inside .comments .wrap {
+    padding: 0;
+  }
+  body.blog-inside .leave-a-comment .col-10 {
+    width: 220px;
+  }
+  body.blog-inside .leave-a-comment .col-11 {
+    width: 520px;
+  }
+  /* About */
+  .about section.content h3 {
+    padding: 0 20px;
+  }
+  .about .team .founder .col-3 .img {
+    width: 100%;
+  }
+  .about .team .founder .col-3 .img img {
+    width: 100%;
+  }
+  .about .team .founder .team-slider .col-3 {
+    padding: 0 20px;
+  }
+  .about .team .background {
+    display: none;
+  }
+  .about .team .founder .team-slider .slides > li .img:before {
+    display: none;
+  }
+  .about .team .founder .team-slider .slides > li {
+    padding-top: 18px;
+  }
+  .about .team .founder .team-slider .flex-direction-nav li {
+    top: 30%;
+  }
+  .about .certificate {
+    padding: 50px 0;
+  }
+  .about .certificate .col-7 .text {
+    padding-right: 60px;
+  }
+  /* Contact */
+  body.contact .inner .col-6.right .form:before {
+    display: none;
+  }
+  body.contact .inner .col-6.right h3 {
+    padding-left: 0;
+  }
+  body.contact .inner .col-6.right .form form {
+    padding: 50px 25px 50px 25px;
+  }
+  .call-us {
+    width: auto;
+  }
+  body.home section.suggestions .right h2 {
+    font-size: 40px;
+  }
+}
+/* ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## */
+@media (max-width: 630px) {
+  .wrap,
+  body.home section.our-services .columns {
+    margin: 0 auto;
+    width: 300px !important;
+    min-width: 300px;
+    padding: 0 10px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+  .call-us {
+    position: static;
+    margin-top: 10px;
+    margin-left: 0;
+    width: 100%;
+    text-align: center;
+    width: auto;
+  }
+  .call-us p {
+    text-align: center;
+  }
+  nav.main {
+    width: 280px;
+  }
+  nav.main:before {
+    width: 250px;
+  }
+  body.home header .left,
+  body.home header .right {
+    width: 100%;
+  }
+  body.home header .left .text {
+    margin-top: 30px;
+  }
+  body.home .background .col-6:first-of-type {
+    width: 100%;
+  }
+  body.home .background .col-6:last-of-type {
+    display: none;
+  }
+  body.home header .left .text {
+    padding-right: 0;
+  }
+  body.home .background .col-6:first-of-type:after {
+    display: none;
+  }
+  body.home header .left img.car {
+    position: static;
+    margin-top: 10px;
+    max-width: 80%;
+  }
+  body.home header .left h2,
+  body.home header .left p {
+    text-align: left;
+    color: #fff;
+  }
+  body.home header .right .text {
+    padding-left: 0;
+  }
+  body.home .background {
+    height: auto;
+  }
+  body.home {
+    background: url("images/pattern1.png") repeat;
+  }
+  body.home header .right .type a {
+    width: 19%;
+  }
+  body.home section.our-services h2:before,
+  body.home section.our-services h2:after {
+    display: none;
+  }
+  body.home section.our-services .columns .col-3 {
+    width: 100%;
+  }
+  body.home .mobile {
+    margin-top: 40px;
+  }
+  body.home .mobile .col-6:first-of-type,
+  body.home .mobile .col-6:last-of-type {
+    width: 100%;
+    padding-right: 0;
+    padding-left: 0;
+    text-align: left;
+  }
+  body.home .mobile .col-6:last-of-type {
+    width: 80%;
+  }
+  body.home .mobile .col-6:first-of-type h3,
+  body.home .mobile .col-6:first-of-type p {
+    text-align: left;
+  }
+  body.home .mobile .col-6:first-of-type h3 {
+    font-size: 20px;
+  }
+  body.home .mobile .col-6:last-of-type p {
+    font-family: 'Arial';
+    font-size: 11px;
+  }
+  body.home .mobile .col-6:last-of-type h3 {
+    color: #fff;
+  }
+  body.home .mobile:after {
+    left: 75%;
+    bottom: -10px;
+  }
+  body.home .mobile .col-6:last-of-type {
+    padding-right: 150px;
+  }
+  body.home .mobile .store {
+    margin-bottom: 30px;
+  }
+  body.home section.how-it-works .list .col-4 {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  body.home section.suggestions .left,
+  body.home section.suggestions .right {
+    width: 100%;
+    padding-left: 0;
+    padding-right: 0;
+  }
+  body.home section.suggestions .right h2 {
+    font-size: 50px;
+  }
+  body.home section.our-cars h2:before,
+  body.home section.our-cars h2:after {
+    display: none;
+  }
+  body.home section.our-cars .gallery .col-3,
+  body.home section.our-cars .gallery .col-6 {
+    width: 100%;
+  }
+  body.home section.our-cars .gallery .col-6 {
+    margin-bottom: 5px;
+    padding-left: 0;
+    padding-right: 0;
+  }
+  body.home section.newsspecials {
+    padding-top: 50px;
+  }
+  body.home section.newsspecials .news .content {
+    height: auto;
+  }
+  body.home section.newsspecials .news article .right {
+    height: 150px;
+    padding-top: 15px;
+  }
+  body.home section.newsspecials .specials .content .container:first-of-type {
+    background-position: -110% center;
+  }
+  body.home section.newsspecials .specials .content .container:first-of-type .text {
+    right: 0px;
+  }
+  body.home section.newsspecials .specials .content .container:first-of-type .text {
+    width: 135px;
+    top: 28%;
+  }
+  body.home section.newsspecials .specials .content .container:last-of-type h3 {
+    left: 20px;
+  }
+  body.home section.newsspecials .specials .content .container:last-of-type .offer {
+    font-size: 90px;
+    line-height: 2.4;
+  }
+  body.home section.suggestions .left:after {
+    display: none;
+  }
+  body.home section.suggestions .left form {
+    margin-left: 0;
+  }
+  body.home header .right .col-2 {
+    width: 15%;
+  }
+  body.home header .right .col-10 {
+    width: 80%;
+  }
+  body.home section.our-cars .gallery #slider {
+    height: 270px;
+  }
+  body.home section.our-cars .gallery #slider .slides {
+    margin-top: 15%;
+  }
+  body.home section.our-services {
+    padding-top: 40px;
+  }
+  body.home section.our-services h2 {
+    margin-bottom: 50px;
+  }
+  body.home section.newsspecials .news article .right p {
+    font-size: 11px;
+  }
+  /* Footer */
+  footer .content .col-4 {
+    width: 100%;
+  }
+  footer .content .col-4:nth-child(3) {
+    text-align: center;
+  }
+  footer .content .col-4:nth-child(3) p {
+    text-align: center;
+  }
+  footer .content .col-4:nth-child(1) p {
+    text-align: center;
+  }
+  /* All */
+  .call-us {
+    position: relative;
+    left: 0;
+    top: 0;
+  }
+  body.all section.content {
+    margin-top: 20px;
+  }
+  body.services section.content h2:before,
+  body.services section.content h2:after,
+  body.all section.content > h2:before,
+  body.all section.content > h2:after {
+    display: none;
+  }
+  /* Services */
+  body.services section.content .tiles > .col-6 {
+    height: auto;
+  }
+  body.services section.content .tiles > .col-6 .txt {
+    padding: 20px !important;
+  }
+  body.services section.content .tiles > .col-6 .img {
+    width: 100%;
+  }
+  body.services section.content .tiles > .col-6 .txt {
+    width: 100%;
+  }
+  body.services section.content .tiles > .col-6 .txt.right:after {
+    right: 0;
+    top: 163px;
+  }
+  body.services section.content .tiles > .col-6 .txt.left:after {
+    left: 0;
+    top: 4%;
+  }
+  /* Booking */
+  body.booking #book-nav li {
+    width: 100%;
+    height: 75px;
+  }
+  body.booking #book-content form .col-2 {
+    width: 100%;
+    text-align: left;
+  }
+  body.booking #book-content form label,
+  body.booking #book-content form p {
+    line-height: 20px;
+    padding-top: 5px;
+    text-align: left;
+  }
+  body.booking #book-content form .col-6:first-child .col-10,
+  body.booking #book-content form .col-6:last-of-type .col-10 {
+    width: 100%;
+  }
+  body.booking #book-content form .map {
+    width: 100%;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+  body.booking #book-content form .col-6:first-child .col-4,
+  body.booking #book-content form .col-6:last-of-type .col-4 {
+    width: 50%;
+  }
+  body.blog article .right {
+    border-left: none;
+  }
+  body.blog article .right {
+    padding-left: 18px;
+  }
+  body.blog article .right .inner .img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 15px;
+  }
+  body.blog article .right .inner .img img {
+    width: 100%;
+  }
+  body.blog article .right .inner {
+    padding: 20px!important;
+  }
+  body.blog article .right .inner .read {
+    position: static;
+    display: block;
+    text-align: right;
+    margin-top: 15px;
+    font-size: 12px;
+  }
+  body.blog article .right .inner .read:after {
+    display: none;
+  }
+  body.blog .pagination .col-10 {
+    display: none;
+  }
+  body.blog .pagination .col-1:last-of-type {
+    float: right;
+  }
+  body.blog-inside section.content h1 {
+    font-size: 17px;
+    padding: 0;
+  }
+  body.blog-inside section.content p {
+    padding-right: 0;
+    padding-left: 0;
+  }
+  body.blog-inside section.content .quote {
+    width: 100%;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding-right: 0;
+  }
+  body.blog-inside section.content h2 {
+    font-size: 24px;
+    padding: 0;
+  }
+  body.blog-inside section.content ul {
+    padding: 0 0px 0 15px;
+  }
+  body.blog-inside section.content table {
+    margin-bottom: 0;
+  }
+  body.blog-inside .table {
+    width: 100%;
+    overflow: auto;
+    margin-bottom: 30px;
+  }
+  body.blog-inside .comments .top h2 {
+    padding-left: 0;
+  }
+  body.blog-inside .comments .top span {
+    float: none;
+    display: block;
+  }
+  body.blog-inside .comments .comment .img {
+    position: static;
+  }
+  body.blog-inside .comments .comment .info,
+  body.blog-inside .comments .comment .content {
+    margin-left: 0;
+  }
+  body.blog-inside .comments .comment.second-level {
+    padding-left: 50px;
+  }
+  body.blog-inside .leave-a-comment h2 {
+    padding-left: 0;
+  }
+  body.blog-inside .leave-a-comment .col-10,
+  body.blog-inside .leave-a-comment .col-11 {
+    width: 100%;
+    padding-left: 0;
+    padding-right: 10px;
+  }
+  body.blog-inside .leave-a-comment label {
+    text-align: left;
+    line-height: 20px;
+  }
+  /* About */
+  .about section.content h3 {
+    padding: 0;
+    font-size: 18px;
+  }
+  .about section.content .col-6:first-child,
+  .about section.content .col-6:last-child {
+    width: 100%;
+    padding: 0 !important;
+  }
+  .about .team h3 {
+    font-size: 40px;
+  }
+  .about .team .founder .name {
+    width: 100%;
+    text-align: center;
+    padding-right: 0;
+    margin-bottom: 25px;
+  }
+  .about .team .founder .img:before {
+    background: url("images/team-circle.png") no-repeat center;
+    top: -45px;
+  }
+  .about .team .founder .info {
+    margin-top: 40px;
+    padding-left: 0;
+    text-align: center;
+  }
+  .about .team .founder .wide-line {
+    display: none;
+  }
+  .about .team .founder .team-slider .col-3 {
+    width: 100%;
+    padding-left: 20%;
+    padding-right: 20%;
+    margin-bottom: 10px;
+  }
+  .about .team .founder .team-slider .flex-direction-nav li {
+    top: 0;
+  }
+  .about .certificate img {
+    width: 100%;
+  }
+  .about .certificate .col-7,
+  .about .certificate .col-5 {
+    width: 100%;
+  }
+  .about .certificate .col-7 .text {
+    padding-top: 0;
+  }
+  .about .certificate .col-7 .text h3 {
+    font-size: 25px;
+  }
+  /* COntact */
+  body.contact .inner .col-6.left,
+  body.contact .inner .col-6.right {
+    width: 100%;
+    padding: 0 !important;
+  }
+  body.contact .background {
+    height: 300px;
+  }
+  .background .col-6:first-of-type,
+  body.contact .inner .back-right {
+    display: none;
+  }
+  .background .col-6:last-of-type {
+    width: 100%;
+  }
+  body.contact .inner .back-left {
+    width: 100%;
+  }
+  body.contact .inner {
+    height: auto;
+    padding: 30px 0;
+    background: url("images/pattern2.png") repeat;
+  }
+  body.contact .inner .col-6.right h3 {
+    color: #000;
+    margin-top: 15px;
+  }
+}

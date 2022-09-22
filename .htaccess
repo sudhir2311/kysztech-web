@@ -1,0 +1,26 @@
+# Powered by Zyro.com
+ErrorDocument 401 "Unauthorized"
+ErrorDocument 403 "Forbidden"
+
+RewriteEngine On
+#### PERSISTENT CONTENT ####
+
+DirectoryIndex index.php index.cgi index.html
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ zyro/$1 [L,QSA]
+
+
+# disable directory browsing
+Options -Indexes
+
+# enable directory browsing
+# Options +Indexes
+
+# prevent folder listing
+# IndexIgnore *
+
+# prevent display of select file types
+# IndexIgnore *.wmv *.mp4 *.avi *.etc
+
+AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css text/javascript application/javascript
